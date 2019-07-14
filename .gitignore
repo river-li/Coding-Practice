@@ -1,2 +1,5 @@
 a.out
 *.out
+.gdb_history
+peda*
+test.cpp
