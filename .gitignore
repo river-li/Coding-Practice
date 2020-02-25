@@ -3,3 +3,4 @@ a.out
 .gdb_history
 peda*
 test.cpp
+.DB_Store
